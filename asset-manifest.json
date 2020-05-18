@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/myreactvinay/kudos.git/static/js/main.2f58f301.chunk.js",
-    "main.js.map": "/myreactvinay/kudos.git/static/js/main.2f58f301.chunk.js.map",
-    "runtime-main.js": "/myreactvinay/kudos.git/static/js/runtime-main.05702e79.js",
-    "runtime-main.js.map": "/myreactvinay/kudos.git/static/js/runtime-main.05702e79.js.map",
-    "static/css/2.de424728.chunk.css": "/myreactvinay/kudos.git/static/css/2.de424728.chunk.css",
-    "static/js/2.0eb32ce4.chunk.js": "/myreactvinay/kudos.git/static/js/2.0eb32ce4.chunk.js",
-    "static/js/2.0eb32ce4.chunk.js.map": "/myreactvinay/kudos.git/static/js/2.0eb32ce4.chunk.js.map",
-    "index.html": "/myreactvinay/kudos.git/index.html",
-    "precache-manifest.35cd236a4c0af9a8c25ed0eb4e1d9889.js": "/myreactvinay/kudos.git/precache-manifest.35cd236a4c0af9a8c25ed0eb4e1d9889.js",
-    "service-worker.js": "/myreactvinay/kudos.git/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/myreactvinay/kudos.git/static/css/2.de424728.chunk.css.map",
-    "static/js/2.0eb32ce4.chunk.js.LICENSE.txt": "/myreactvinay/kudos.git/static/js/2.0eb32ce4.chunk.js.LICENSE.txt",
-    "static/media/like.png": "/myreactvinay/kudos.git/static/media/like.bc89c499.png"
+    "main.js": "/kudos/static/js/main.2f58f301.chunk.js",
+    "main.js.map": "/kudos/static/js/main.2f58f301.chunk.js.map",
+    "runtime-main.js": "/kudos/static/js/runtime-main.4556bc0f.js",
+    "runtime-main.js.map": "/kudos/static/js/runtime-main.4556bc0f.js.map",
+    "static/css/2.de424728.chunk.css": "/kudos/static/css/2.de424728.chunk.css",
+    "static/js/2.0eb32ce4.chunk.js": "/kudos/static/js/2.0eb32ce4.chunk.js",
+    "static/js/2.0eb32ce4.chunk.js.map": "/kudos/static/js/2.0eb32ce4.chunk.js.map",
+    "index.html": "/kudos/index.html",
+    "precache-manifest.c58c044abd362f91255a6af3422dc679.js": "/kudos/precache-manifest.c58c044abd362f91255a6af3422dc679.js",
+    "service-worker.js": "/kudos/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/kudos/static/css/2.de424728.chunk.css.map",
+    "static/js/2.0eb32ce4.chunk.js.LICENSE.txt": "/kudos/static/js/2.0eb32ce4.chunk.js.LICENSE.txt",
+    "static/media/like.png": "/kudos/static/media/like.bc89c499.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.05702e79.js",
+    "static/js/runtime-main.4556bc0f.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.0eb32ce4.chunk.js",
     "static/js/main.2f58f301.chunk.js"
