@@ -27,7 +27,7 @@ render(
               e.preventDefault();
               localStorage.removeItem("userN");
               window.location.reload(true);
-              window.location.href = "/";
+              window.location.href = "/kudos";
             }}
           >
             Signout
