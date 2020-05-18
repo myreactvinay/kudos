@@ -11,7 +11,7 @@ export default class Routes extends Component {
       <Router history={history}>
         <Switch>
           <Route path="/kudos" exact component={Login} />
-          <Route path="/home:myKey" component={home} />
+          <Route path="/kudos/home:myKey" component={home} />
         </Switch>
       </Router>
     );

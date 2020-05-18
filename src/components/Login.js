@@ -7,7 +7,7 @@ class Login extends React.Component {
     let password = this.refs.password.value;
     if (username === password && username !== "" && password !== "") {
       localStorage.setItem("userN", username);
-      this.props.history.push(`/home:${username}`);
+      this.props.history.push(`/kudos/home:${username}`);
       window.location.reload(true);
     } else {
       alert("Please use same word for both username and password");
